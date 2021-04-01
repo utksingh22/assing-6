@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #014f86;
+}
+h1{
+    margin-top: 20px;
+    text-align: center;
+    background-color: red;
+}
+section{
+    width:360px;
+    margin:50px Auto;
+}
+#inp{
+    box-sizing: border-box;
+    width:300px;
+    padding: 10px;
+    outline: none;
+}
+button{
+    background-color:#38b000;
+    color:white;
+    width: 50px;
+    padding: 10px;
+    cursor: pointer;
+    outline: none;
+}
+li{
+    background-color:#c70512 ;
+    margin-top: 3px;
+    border:1px solid gray;
+    color: #fff;
+    padding: 10px;
+    list-style: none;
+    cursor: pointer;
+}
+li:nth-of-type(1){
+    background-color: palegreen;
+
+}
+
+li:nth-of-type(2){
+    background-color:#143601;
+}
+li:nth-of-type(3){
+    background-color: #e30613;
+    
+}
+li:nth-of-type(4){
+    background-color: #ff7d00;
+}
+li:nth-of-type(5){
+    background-color:#2a0800 ;
+}
+li:nth-of-type(6){
+    background-color:#ef6351 ;
+}
+li:nth-of-type(7){
+    background-color:#0f8b8d ;
+}
+li:nth-of-type(8){
+    background-color:#da4167 ;
+}
+li:nth-of-type(9){
+    background-color:#dc244b;
+}
+li:nth-of-type(10){
+    background-color:#f94144 ;
+}
